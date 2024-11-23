@@ -16,14 +16,13 @@ Mock security audit of fictional company Botium Toys for 'Google Cybersecurity P
 | ------- | ----- | ----- |
 | Least Privilege |---|
 | Disaster Recovery Plans |---|
-| Password policie s|---
+| Password policies |---|
 | Separation of duties |---|
 | Firewall |---|
 | Intrusion detection system (IDS) |---|
 | Backups |---|
 | Antivirus software |
-| Manual monitoring, maintenance, and intervention for legacy
-systems |
+| Manual monitoring, maintenance, and intervention for legacy systems |
 | Encryption |
 | Password management system |
 | Locks (offices, storefront, warehouse) |
