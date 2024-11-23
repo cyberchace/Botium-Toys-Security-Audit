@@ -2,11 +2,10 @@
 Mock security audit of fictional company Botium Toys for 'Google Cybersecurity Professional Certificate' Module 2 - Play It Safe: Manage Security Risks > Security Frameworks and Controls 
 
 # Contents Test
-
-- ![#f03c15](https://placehold.co/10x10/f03c15/f03c15.png) `#f03c15`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/20x20/1589F0/1589F0.png) `#1589F0`
-- ![#FD33FF](https://placehold.co/25x25/FD33FF/FD33FF.png) `#FD33FF`
+![#ff0000](https://placehold.co/10x10/ff0000/ff0000.png) `#ff0000`
+![#c5f015](https://placehold.co/10x10/c5f015/c5f015.png) `#c5f015`
+![#1589F0](https://placehold.co/10x10/1589F0/1589F0.png) `#1589F0`
+![#FD33FF](https://placehold.co/10x10/FD33FF/FD33FF.png) `#FD33FF`
 
 ### Control Assessment Checklist
 
@@ -32,9 +31,39 @@ systems |
 
 <ins>Payment Card Industry Data Security Standard (PCI DSS)</ins>
 
+| Best Practice | 
+| ------------- |
+|               | 
+|               |
+|               |
+|               |
+|               |
+|               |
+
+
 <ins>General Data Protection Regulation (GDPR)</ins>
 
+| Best Practice | Implementation |
+| ------------- | -------------- |
+|               | ![#f03c15](https://placehold.co/10x10/f03c15/f03c15.png) `#f03c15` |
+|               |
+|               |
+|               |
+|               |
+|               |
+
+
 <ins>System and Organizations Controls (SOC type 1, SOC type 2)</ins>
+
+| Best Practice |
+| ------------- |
+|               |
+|               |
+|               |
+|               |
+|               |
+|               |
+
 
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Something}$$
 
