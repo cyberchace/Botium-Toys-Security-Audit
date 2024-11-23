@@ -30,6 +30,12 @@ systems |
 
 ### Compliance Checklist
 
+<ins>Payment Card Industry Data Security Standard (PCI DSS)</ins>
+
+<ins>General Data Protection Regulation (GDPR)</ins>
+
+<ins>System and Organizations Controls (SOC type 1, SOC type 2)</ins>
+
 $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}Something}$$
 
 $${\color{gold}How \space \color{green}does \space \color{purple}this \space \color{orange}work}$$
