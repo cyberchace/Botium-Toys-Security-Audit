@@ -12,8 +12,8 @@ Mock security audit of fictional company Botium Toys for 'Google Cybersecurity P
 
 ### Control Assessment Checklist
 
-| Control | Implementation | 
-| ------- | ----- | 
+| Control | Implementation | Recommendations |
+| ------- | ----- | ----- |
 | Least Privilege |---|
 | Disaster Recovery Plans |---|
 | Password policie s|---
@@ -34,8 +34,8 @@ systems |
 
 <ins>Payment Card Industry Data Security Standard (PCI DSS)</ins>
 
-| Best Practice | Implementation |
-| ------------- | -------------- |
+| Best Practice | Implementation | Recommendations |
+| ------------- | -------------- | ----- |
 | Only authorized users have access to customers’ credit card information. | 
 | Credit card information is stored, accepted, processed, and transmited internally, in a secure environment. |
 | Implement data encryption procedures to better secure credit card transaction touchpoints and data.  |
@@ -44,8 +44,8 @@ systems |
 
 <ins>General Data Protection Regulation (GDPR)</ins>
 
-| Best Practice | Implementation |
-| ------------- | -------------- |
+| Best Practice | Implementation | Recommendations |
+| ------------- | -------------- | ----- |
 | E.U. customers’ data is kept private/secured.    | ![Red Square](https://placehold.co/10x10/ff0000/ff0000.png) |
 | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach.    |
 | Ensure data is properly classified and inventoried.   |
@@ -54,8 +54,8 @@ systems |
 
 <ins>System and Organizations Controls (SOC type 1, SOC type 2)</ins>
 
-| Best Practice | Implementation |
-| ------------- | -------------- |
+| Best Practice | Implementation | Recommendations |
+| ------------- | -------------- | ----- |
 | User access policies are established.  |
 | Sensitive data (PII/SPII) is confidential/private.  |
 | Data integrity ensures the data is consistent, complete, accurate, and has been validated.  |
