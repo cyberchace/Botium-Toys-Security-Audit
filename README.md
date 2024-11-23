@@ -5,9 +5,9 @@ Mock security audit of fictional company Botium Toys for 'Google Cybersecurity P
 
 ## Key info
 
-- High Priority  ![Red Square](https://placehold.co/10x10/ff0000/ff0000.png)
-- Medium Priority  ![Orange Square](https://placehold.co/10x10/FF7F00/FF7F00.png)
-- Low Priority  ![Yellow Square](https://placehold.co/10x10/FFFF00/FFFF00.png)
+- High Risk  ![Red Square](https://placehold.co/10x10/ff0000/ff0000.png)
+- Medium Risk  ![Orange Square](https://placehold.co/10x10/FF7F00/FF7F00.png)
+- Low Risk  ![Yellow Square](https://placehold.co/10x10/FFFF00/FFFF00.png)
 - Implemented  ![Green Square](https://placehold.co/10x10/00FF00/00FF00.png)
 
 ### Control Assessment Checklist
