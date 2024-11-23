@@ -2,10 +2,10 @@
 Mock security audit of fictional company Botium Toys for 'Google Cybersecurity Professional Certificate' Module 2 - Play It Safe: Manage Security Risks > Security Frameworks and Controls 
 
 # Contents Test
-![#ff0000](https://placehold.co/10x10/ff0000/ff0000.png) `#ff0000`
-![#c5f015](https://placehold.co/10x10/c5f015/c5f015.png) `#c5f015`
-![#1589F0](https://placehold.co/10x10/1589F0/1589F0.png) `#1589F0`
-![#FD33FF](https://placehold.co/10x10/FD33FF/FD33FF.png) `#FD33FF`
+![High Priority](https://placehold.co/10x10/ff0000/ff0000.png) `High Priority`
+![Medium Priority](https://placehold.co/10x10/FF7F00/FF7F00.png) `Medium Priority`
+![Low Priority](https://placehold.co/10x10/FFFF00/FFFF00.png) `Low Priority`
+![Implemented](https://placehold.co/10x10/00FF00/00FF00.png) `Implemented`
 
 ### Control Assessment Checklist
 
