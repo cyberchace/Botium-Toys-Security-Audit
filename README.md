@@ -1,7 +1,7 @@
 # Botium-Toys-Security-Audit
 Mock security audit of fictional company Botium Toys for 'Google Cybersecurity Professional Certificate' Module 2 - Play It Safe: Manage Security Risks > Security Frameworks and Controls 
 
-# Contents Test
+# Contents
 ![High Priority](https://placehold.co/10x10/ff0000/ff0000.png) `High Priority`
 ![Medium Priority](https://placehold.co/10x10/FF7F00/FF7F00.png) `Medium Priority`
 ![Low Priority](https://placehold.co/10x10/FFFF00/FFFF00.png) `Low Priority`
